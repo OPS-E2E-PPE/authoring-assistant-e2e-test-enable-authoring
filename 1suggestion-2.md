@@ -6,4 +6,6 @@ ms.topic: conceptual
 ms.date: 03/11/2022 
 ms.custom: devx-track-azurecli
 ---
-1. Correct the configration value.
+1. Correct the configuration value.
+
+2. Correct the configration value.
