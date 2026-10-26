@@ -10,4 +10,6 @@ ms.custom: devx-track-azurecli, e2e-fixture
 ---
 # Microsoft Learn Authoring Assistant test article
 
-1. Correct the configration value.
+1. Correct the configuration value.
+
+2. Correct the configration value.
